@@ -1,0 +1,10 @@
+{
+    "name": "shuttle3",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node shuttle3.js"
+    },
+    "dependencies": {
+        "readline-sync": "1.4.10"
+    }
+}
